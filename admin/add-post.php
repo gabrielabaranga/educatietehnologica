@@ -14,7 +14,7 @@ $stmt = $conn->prepare("SELECT username FROM useri WHERE id=".$_SESSION["user_se
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>Educatie Tehnologica si aplicatii practice</title>
+		<title>Educatie Tehnologica si aplicatii practice la gimnaziu</title>
 		<meta charset="iso-8859-2" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
